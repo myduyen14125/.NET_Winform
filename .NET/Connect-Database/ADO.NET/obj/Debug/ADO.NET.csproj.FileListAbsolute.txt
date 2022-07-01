@@ -1,0 +1,15 @@
+E:\.NET\Connect-Database\ADO.NET\bin\Debug\ADO.NET.exe.config
+E:\.NET\Connect-Database\ADO.NET\bin\Debug\ADO.NET.exe
+E:\.NET\Connect-Database\ADO.NET\bin\Debug\ADO.NET.pdb
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.csproj.AssemblyReference.cache
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.csproj.GenerateResource.cache
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.exe
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.pdb
+E:\.NET\Connect-Database\ADO.NET\bin\Debug\QLSV.dll
+E:\.NET\Connect-Database\ADO.NET\bin\Debug\QLSV.pdb
+E:\.NET\Connect-Database\ADO.NET\bin\Debug\QLSV.dll.config
+E:\.NET\Connect-Database\ADO.NET\obj\Debug\ADO.NET.csproj.CopyComplete

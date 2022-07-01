@@ -1,0 +1,16 @@
+E:\.NET\EntityCodeFirst\EntityCodeFirst\bin\Debug\EntityCodeFirst.exe.config
+E:\.NET\EntityCodeFirst\EntityCodeFirst\bin\Debug\EntityCodeFirst.exe
+E:\.NET\EntityCodeFirst\EntityCodeFirst\bin\Debug\EntityCodeFirst.pdb
+E:\.NET\EntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.dll
+E:\.NET\EntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+E:\.NET\EntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.xml
+E:\.NET\EntityCodeFirst\EntityCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.AssemblyReference.cache
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.SuggestedBindingRedirects.cache
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.Form1.resources
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.Properties.Resources.resources
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.GenerateResource.cache
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.CoreCompileInputs.cache
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.csproj.CopyComplete
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.exe
+E:\.NET\EntityCodeFirst\EntityCodeFirst\obj\Debug\EntityCodeFirst.pdb

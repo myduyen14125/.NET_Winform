@@ -1,0 +1,11 @@
+E:\.NET\Basic\OderFood\bin\Debug\OderFood.exe.config
+E:\.NET\Basic\OderFood\bin\Debug\OderFood.exe
+E:\.NET\Basic\OderFood\bin\Debug\OderFood.pdb
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.csproj.AssemblyReference.cache
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.Form1.resources
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.Properties.Resources.resources
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.csproj.GenerateResource.cache
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.csproj.CoreCompileInputs.cache
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.exe
+E:\.NET\Basic\OderFood\obj\Debug\OderFood.pdb

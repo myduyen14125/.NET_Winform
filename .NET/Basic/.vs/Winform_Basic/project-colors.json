@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d1a07ce5-9ea7-4470-90cf-c09257311cde": {
+      "ProjectGuid": "d1a07ce5-9ea7-4470-90cf-c09257311cde",
+      "DisplayName": "Demo1",
+      "ColorIndex": 0
+    },
+    "2375a573-54be-4c20-98ae-bb0ab0e36d76": {
+      "ProjectGuid": "2375a573-54be-4c20-98ae-bb0ab0e36d76",
+      "DisplayName": "Dental_Payment",
+      "ColorIndex": 1
+    },
+    "54ed5af3-4b1a-41a9-a7b1-b85e99a81ae6": {
+      "ProjectGuid": "54ed5af3-4b1a-41a9-a7b1-b85e99a81ae6",
+      "DisplayName": "Security_Panel",
+      "ColorIndex": 2
+    },
+    "831893e3-7e8e-40df-8f30-3cb3016f3847": {
+      "ProjectGuid": "831893e3-7e8e-40df-8f30-3cb3016f3847",
+      "DisplayName": "ListView_DtTable",
+      "ColorIndex": 3
+    },
+    "25f221cd-2c9f-4c01-a051-de5e2c36960e": {
+      "ProjectGuid": "25f221cd-2c9f-4c01-a051-de5e2c36960e",
+      "DisplayName": "OderFood",
+      "ColorIndex": 4
+    },
+    "c976fadf-004d-4fd1-9eb6-a07b498b1aa5": {
+      "ProjectGuid": "c976fadf-004d-4fd1-9eb6-a07b498b1aa5",
+      "DisplayName": "Demo2",
+      "ColorIndex": 5
+    },
+    "d2626eed-24c3-4101-acb3-2c9affca5343": {
+      "ProjectGuid": "d2626eed-24c3-4101-acb3-2c9affca5343",
+      "DisplayName": "MyLogin",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

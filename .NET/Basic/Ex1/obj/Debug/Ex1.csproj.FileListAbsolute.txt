@@ -1,0 +1,11 @@
+E:\.NET\Basic\Ex1\bin\Debug\Ex1.exe.config
+E:\.NET\Basic\Ex1\bin\Debug\Ex1.exe
+E:\.NET\Basic\Ex1\bin\Debug\Ex1.pdb
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.csproj.AssemblyReference.cache
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.Form1.resources
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.Properties.Resources.resources
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.csproj.GenerateResource.cache
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.exe
+E:\.NET\Basic\Ex1\obj\Debug\Ex1.pdb

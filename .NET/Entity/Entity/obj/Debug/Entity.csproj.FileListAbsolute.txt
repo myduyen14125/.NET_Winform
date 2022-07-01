@@ -1,0 +1,17 @@
+E:\.NET\Entity\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+E:\.NET\Entity\Entity\obj\Debug\Entity.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Entity\Entity\obj\Debug\Entity.Form1.resources
+E:\.NET\Entity\Entity\obj\Debug\Entity.Properties.Resources.resources
+E:\.NET\Entity\Entity\obj\Debug\Entity.csproj.GenerateResource.cache
+E:\.NET\Entity\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+E:\.NET\Entity\Entity\bin\Debug\Entity.exe.config
+E:\.NET\Entity\Entity\bin\Debug\Entity.exe
+E:\.NET\Entity\Entity\bin\Debug\Entity.pdb
+E:\.NET\Entity\Entity\bin\Debug\EntityFramework.dll
+E:\.NET\Entity\Entity\bin\Debug\EntityFramework.SqlServer.dll
+E:\.NET\Entity\Entity\bin\Debug\EntityFramework.xml
+E:\.NET\Entity\Entity\bin\Debug\EntityFramework.SqlServer.xml
+E:\.NET\Entity\Entity\obj\Debug\Entity.csproj.CopyComplete
+E:\.NET\Entity\Entity\obj\Debug\Entity.exe
+E:\.NET\Entity\Entity\obj\Debug\Entity.pdb
+E:\.NET\Entity\Entity\obj\Debug\Entity.Form2.resources

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a737af6b-c9a8-46cd-9d75-162f9c9c0141": {
+      "ProjectGuid": "a737af6b-c9a8-46cd-9d75-162f9c9c0141",
+      "DisplayName": "ADO.NET",
+      "ColorIndex": 0
+    },
+    "aec40870-d41f-4320-b5eb-63ef55290a2d": {
+      "ProjectGuid": "aec40870-d41f-4320-b5eb-63ef55290a2d",
+      "DisplayName": "QLSV_DB",
+      "ColorIndex": 1
+    },
+    "bf463051-8c6b-4047-a4c8-79df0039b1b5": {
+      "ProjectGuid": "bf463051-8c6b-4047-a4c8-79df0039b1b5",
+      "DisplayName": "Three_Layers",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

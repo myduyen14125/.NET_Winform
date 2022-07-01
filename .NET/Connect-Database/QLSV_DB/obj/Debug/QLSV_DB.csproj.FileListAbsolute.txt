@@ -1,0 +1,12 @@
+E:\.NET\Connect-Database\QLSV_DB\bin\Debug\QLSV_DB.exe.config
+E:\.NET\Connect-Database\QLSV_DB\bin\Debug\QLSV_DB.exe
+E:\.NET\Connect-Database\QLSV_DB\bin\Debug\QLSV_DB.pdb
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.csproj.AssemblyReference.cache
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.MainForm.resources
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.Properties.Resources.resources
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.csproj.GenerateResource.cache
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.csproj.CoreCompileInputs.cache
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.exe
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.pdb
+E:\.NET\Connect-Database\QLSV_DB\obj\Debug\QLSV_DB.Details.resources

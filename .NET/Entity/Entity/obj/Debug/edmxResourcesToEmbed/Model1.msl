@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="quanlysinhvienModelStoreContainer" CdmEntityContainer="quanlysinhvienEntities">
+    <EntitySetMapping Name="LopSHes">
+      <EntityTypeMapping TypeName="quanlysinhvienModel.LopSH">
+        <MappingFragment StoreEntitySet="LopSH">
+          <ScalarProperty Name="ID_Lop" ColumnName="ID_Lop" />
+          <ScalarProperty Name="NameLop" ColumnName="NameLop" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SVs">
+      <EntityTypeMapping TypeName="quanlysinhvienModel.SV">
+        <MappingFragment StoreEntitySet="SV">
+          <ScalarProperty Name="MSSV" ColumnName="MSSV" />
+          <ScalarProperty Name="NameSV" ColumnName="NameSV" />
+          <ScalarProperty Name="ID_Lop" ColumnName="ID_Lop" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="NS" ColumnName="NS" />
+          <ScalarProperty Name="DTB" ColumnName="DTB" />
+          <ScalarProperty Name="Anh" ColumnName="Anh" />
+          <ScalarProperty Name="HB" ColumnName="HB" />
+          <ScalarProperty Name="CMND" ColumnName="CMND" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5376c711-b5cd-47bc-98ee-0953b8dc1d26": {
+      "ProjectGuid": "5376c711-b5cd-47bc-98ee-0953b8dc1d26",
+      "DisplayName": "QLSV",
+      "ColorIndex": 0
+    },
+    "6935d11b-454e-458f-8a55-779966c3bcab": {
+      "ProjectGuid": "6935d11b-454e-458f-8a55-779966c3bcab",
+      "DisplayName": "QLSV_Copy",
+      "ColorIndex": 1
+    },
+    "69a32bef-5938-434f-b709-60226e7e39ad": {
+      "ProjectGuid": "69a32bef-5938-434f-b709-60226e7e39ad",
+      "DisplayName": "DATNManagement",
+      "ColorIndex": 2
+    },
+    "883e57ae-d8c5-4329-a376-24b8bb9c659e": {
+      "ProjectGuid": "883e57ae-d8c5-4329-a376-24b8bb9c659e",
+      "DisplayName": "Template",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

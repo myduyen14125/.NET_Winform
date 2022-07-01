@@ -1,0 +1,15 @@
+E:\.NET\buoi4.2\bin\Debug\net6.0\buoi4.2.exe
+E:\.NET\buoi4.2\bin\Debug\net6.0\buoi4.2.deps.json
+E:\.NET\buoi4.2\bin\Debug\net6.0\buoi4.2.runtimeconfig.json
+E:\.NET\buoi4.2\bin\Debug\net6.0\buoi4.2.dll
+E:\.NET\buoi4.2\bin\Debug\net6.0\ref\buoi4.2.dll
+E:\.NET\buoi4.2\bin\Debug\net6.0\buoi4.2.pdb
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.csproj.AssemblyReference.cache
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.AssemblyInfoInputs.cache
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.AssemblyInfo.cs
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.csproj.CoreCompileInputs.cache
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.dll
+E:\.NET\buoi4.2\obj\Debug\net6.0\ref\buoi4.2.dll
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.pdb
+E:\.NET\buoi4.2\obj\Debug\net6.0\buoi4.2.genruntimeconfig.cache

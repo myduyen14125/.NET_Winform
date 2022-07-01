@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="quanlysinhvienModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LopSH">
+    <Key>
+      <PropertyRef Name="ID_Lop" />
+    </Key>
+    <Property Name="ID_Lop" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NameLop" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="SVs" Relationship="Self.FK_SV_LopSH" FromRole="LopSH" ToRole="SV" />
+  </EntityType>
+  <EntityType Name="SV">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="NameSV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ID_Lop" Type="String" MaxLength="10" FixedLength="true" Unicode="true" Nullable="false" />
+    <Property Name="Gender" Type="Boolean" />
+    <Property Name="NS" Type="DateTime" Precision="0" />
+    <Property Name="DTB" Type="Double" Nullable="false" />
+    <Property Name="Anh" Type="Boolean" />
+    <Property Name="HB" Type="Boolean" />
+    <Property Name="CMND" Type="Boolean" />
+    <NavigationProperty Name="LopSH" Relationship="Self.FK_SV_LopSH" FromRole="SV" ToRole="LopSH" />
+  </EntityType>
+  <Association Name="FK_SV_LopSH">
+    <End Role="LopSH" Type="Self.LopSH" Multiplicity="1" />
+    <End Role="SV" Type="Self.SV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LopSH">
+        <PropertyRef Name="ID_Lop" />
+      </Principal>
+      <Dependent Role="SV">
+        <PropertyRef Name="ID_Lop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="quanlysinhvienEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LopSHes" EntityType="Self.LopSH" />
+    <EntitySet Name="SVs" EntityType="Self.SV" />
+    <AssociationSet Name="FK_SV_LopSH" Association="Self.FK_SV_LopSH">
+      <End Role="LopSH" EntitySet="LopSHes" />
+      <End Role="SV" EntitySet="SVs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

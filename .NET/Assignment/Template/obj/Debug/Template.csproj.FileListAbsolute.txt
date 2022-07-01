@@ -1,0 +1,11 @@
+E:\.NET\Assignment\Template\bin\Debug\Template.exe.config
+E:\.NET\Assignment\Template\bin\Debug\Template.exe
+E:\.NET\Assignment\Template\bin\Debug\Template.pdb
+E:\.NET\Assignment\Template\obj\Debug\Template.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Assignment\Template\obj\Debug\Template.DetailForm.resources
+E:\.NET\Assignment\Template\obj\Debug\Template.MainForm.resources
+E:\.NET\Assignment\Template\obj\Debug\Template.Properties.Resources.resources
+E:\.NET\Assignment\Template\obj\Debug\Template.csproj.GenerateResource.cache
+E:\.NET\Assignment\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+E:\.NET\Assignment\Template\obj\Debug\Template.exe
+E:\.NET\Assignment\Template\obj\Debug\Template.pdb

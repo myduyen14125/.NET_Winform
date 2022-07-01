@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="quanlysinhvienModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="LopSH">
+    <Key>
+      <PropertyRef Name="ID_Lop" />
+    </Key>
+    <Property Name="ID_Lop" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="NameLop" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SV">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="NameSV" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="ID_Lop" Type="nchar" MaxLength="10" Nullable="false" />
+    <Property Name="Gender" Type="bit" />
+    <Property Name="NS" Type="date" />
+    <Property Name="DTB" Type="float" Nullable="false" />
+    <Property Name="Anh" Type="bit" />
+    <Property Name="HB" Type="bit" />
+    <Property Name="CMND" Type="bit" />
+  </EntityType>
+  <Association Name="FK_SV_LopSH">
+    <End Role="LopSH" Type="Self.LopSH" Multiplicity="1" />
+    <End Role="SV" Type="Self.SV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LopSH">
+        <PropertyRef Name="ID_Lop" />
+      </Principal>
+      <Dependent Role="SV">
+        <PropertyRef Name="ID_Lop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="quanlysinhvienModelStoreContainer">
+    <EntitySet Name="LopSH" EntityType="Self.LopSH" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SV" EntityType="Self.SV" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_SV_LopSH" Association="Self.FK_SV_LopSH">
+      <End Role="LopSH" EntitySet="LopSH" />
+      <End Role="SV" EntitySet="SV" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

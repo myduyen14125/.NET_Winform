@@ -1,0 +1,11 @@
+E:\.NET\Connect-Database\Three_Layers\bin\Debug\Three_Layers.exe.config
+E:\.NET\Connect-Database\Three_Layers\bin\Debug\Three_Layers.exe
+E:\.NET\Connect-Database\Three_Layers\bin\Debug\Three_Layers.pdb
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.csproj.AssemblyReference.cache
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.Properties.Resources.resources
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.Form1.resources
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.csproj.GenerateResource.cache
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.csproj.CoreCompileInputs.cache
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.exe
+E:\.NET\Connect-Database\Three_Layers\obj\Debug\Three_Layers.pdb

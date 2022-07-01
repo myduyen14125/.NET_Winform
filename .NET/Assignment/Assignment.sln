@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSV", "QLSV\QLSV.csproj", "{5376C711-B5CD-47BC-98EE-0953B8DC1D26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template", "Template\Template.csproj", "{883E57AE-D8C5-4329-A376-24B8BB9C659E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DATNManagement", "ScienceNewspaper\DATNManagement.csproj", "{69A32BEF-5938-434F-B709-60226E7E39AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5376C711-B5CD-47BC-98EE-0953B8DC1D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5376C711-B5CD-47BC-98EE-0953B8DC1D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5376C711-B5CD-47BC-98EE-0953B8DC1D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5376C711-B5CD-47BC-98EE-0953B8DC1D26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{883E57AE-D8C5-4329-A376-24B8BB9C659E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{883E57AE-D8C5-4329-A376-24B8BB9C659E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{883E57AE-D8C5-4329-A376-24B8BB9C659E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{883E57AE-D8C5-4329-A376-24B8BB9C659E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69A32BEF-5938-434F-B709-60226E7E39AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69A32BEF-5938-434F-B709-60226E7E39AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69A32BEF-5938-434F-B709-60226E7E39AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69A32BEF-5938-434F-B709-60226E7E39AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DE725DE-DE51-4195-BA6D-99752C6DAA27}
+	EndGlobalSection
+EndGlobal

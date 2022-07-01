@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLSVModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="LOP">
+    <Key>
+      <PropertyRef Name="ID_Lop" />
+    </Key>
+    <Property Name="ID_Lop" Type="Int32" Nullable="false" />
+    <Property Name="NameLop" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="SVs" Relationship="Self.FK__SV__ID_Lop__267ABA7A" FromRole="LOP" ToRole="SV" />
+  </EntityType>
+  <EntityType Name="SV">
+    <Key>
+      <PropertyRef Name="MSSV" />
+    </Key>
+    <Property Name="MSSV" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="NameSV" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="DTB" Type="Double" />
+    <Property Name="ID_Lop" Type="Int32" />
+    <Property Name="Anh" Type="Boolean" />
+    <Property Name="HocBa" Type="Boolean" />
+    <Property Name="CCNN" Type="Boolean" />
+    <Property Name="Gender" Type="Boolean" />
+    <Property Name="NgaySinh" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="LOP" Relationship="Self.FK__SV__ID_Lop__267ABA7A" FromRole="SV" ToRole="LOP" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK__SV__ID_Lop__267ABA7A">
+    <End Role="LOP" Type="Self.LOP" Multiplicity="0..1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="SV" Type="Self.SV" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LOP">
+        <PropertyRef Name="ID_Lop" />
+      </Principal>
+      <Dependent Role="SV">
+        <PropertyRef Name="ID_Lop" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLSVEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LOPs" EntityType="Self.LOP" />
+    <EntitySet Name="SVs" EntityType="Self.SV" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK__SV__ID_Lop__267ABA7A" Association="Self.FK__SV__ID_Lop__267ABA7A">
+      <End Role="LOP" EntitySet="LOPs" />
+      <End Role="SV" EntitySet="SVs" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

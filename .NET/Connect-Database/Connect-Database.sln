@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO.NET", "ADO.NET\ADO.NET.csproj", "{A737AF6B-C9A8-46CD-9D75-162F9C9C0141}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLSV_DB", "QLSV_DB\QLSV_DB.csproj", "{AEC40870-D41F-4320-B5EB-63EF55290A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Three_Layers", "Three_Layers\Three_Layers.csproj", "{BF463051-8C6B-4047-A4C8-79DF0039B1B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A737AF6B-C9A8-46CD-9D75-162F9C9C0141}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A737AF6B-C9A8-46CD-9D75-162F9C9C0141}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A737AF6B-C9A8-46CD-9D75-162F9C9C0141}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A737AF6B-C9A8-46CD-9D75-162F9C9C0141}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEC40870-D41F-4320-B5EB-63EF55290A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEC40870-D41F-4320-B5EB-63EF55290A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEC40870-D41F-4320-B5EB-63EF55290A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEC40870-D41F-4320-B5EB-63EF55290A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF463051-8C6B-4047-A4C8-79DF0039B1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF463051-8C6B-4047-A4C8-79DF0039B1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF463051-8C6B-4047-A4C8-79DF0039B1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF463051-8C6B-4047-A4C8-79DF0039B1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE086E2-30B6-41A6-B7C6-FE0765805E52}
+	EndGlobalSection
+EndGlobal

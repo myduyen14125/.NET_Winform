@@ -1,0 +1,11 @@
+E:\.NET\Basic\Demo2\bin\Debug\Demo2.exe.config
+E:\.NET\Basic\Demo2\bin\Debug\Demo2.exe
+E:\.NET\Basic\Demo2\bin\Debug\Demo2.pdb
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.csproj.AssemblyReference.cache
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.csproj.SuggestedBindingRedirects.cache
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.Form1.resources
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.Properties.Resources.resources
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.csproj.GenerateResource.cache
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.csproj.CoreCompileInputs.cache
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.exe
+E:\.NET\Basic\Demo2\obj\Debug\Demo2.pdb

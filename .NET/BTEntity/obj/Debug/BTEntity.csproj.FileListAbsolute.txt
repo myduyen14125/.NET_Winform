@@ -1,0 +1,17 @@
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\bin\Debug\BTEntity.exe.config
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\bin\Debug\BTEntity.exe
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\bin\Debug\BTEntity.pdb
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\bin\Debug\EntityFramework.dll
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\bin\Debug\EntityFramework.xml
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.csproj.AssemblyReference.cache
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.Properties.Resources.resources
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.csproj.GenerateResource.cache
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.csproj.CoreCompileInputs.cache
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.csproj.CopyComplete
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.exe
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.pdb
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.DetailForm.resources
+C:\Users\Anh\source\repos\102200162_NguyenPhamNamAnh\BTEntity\obj\Debug\BTEntity.MainForm.resources

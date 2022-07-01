@@ -1,0 +1,15 @@
+E:\.NET\NhanVien\bin\Debug\net6.0\NhanVien.exe
+E:\.NET\NhanVien\bin\Debug\net6.0\NhanVien.deps.json
+E:\.NET\NhanVien\bin\Debug\net6.0\NhanVien.runtimeconfig.json
+E:\.NET\NhanVien\bin\Debug\net6.0\NhanVien.dll
+E:\.NET\NhanVien\bin\Debug\net6.0\ref\NhanVien.dll
+E:\.NET\NhanVien\bin\Debug\net6.0\NhanVien.pdb
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.csproj.AssemblyReference.cache
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.AssemblyInfoInputs.cache
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.AssemblyInfo.cs
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.csproj.CoreCompileInputs.cache
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.dll
+E:\.NET\NhanVien\obj\Debug\net6.0\ref\NhanVien.dll
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.pdb
+E:\.NET\NhanVien\obj\Debug\net6.0\NhanVien.genruntimeconfig.cache
